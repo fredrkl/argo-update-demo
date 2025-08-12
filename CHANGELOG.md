@@ -1,3 +1,8 @@
+# [v1.0.1](https://github.com/fredrkl/argo-update-demo/compare/v1.0.0...v1.0.1) (2025-08-12)
+
+## 🐛 Bug Fixes
+- [`73805cd`](https://github.com/fredrkl/argo-update-demo/commit/73805cd)  Using wrong path and repo
+
 # v1.0.0 (2025-08-12)
 
 ## ✨ New Features
