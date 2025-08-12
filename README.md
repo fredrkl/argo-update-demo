@@ -34,7 +34,9 @@ helm install argocd argo/argo-cd -n argocd
 Then finally we kick of the _GitOps App-of-Apps_ process by running the
 following command:
 
-```bash kubectl kustomize kustomize/overlays/{environment} | k apply -f -```
+```bash
+kubectl kustomize kustomize/overlays/{environment} | k apply -f -
+```
 
 You might see some errors when you run the command. This is because the CRDs
 are not yet installed. You can ignore these errors. The CRDs will be installed
