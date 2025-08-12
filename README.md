@@ -46,4 +46,5 @@ ArgoCD application.
 ## Exterpiment
 
 The purpose of this repository is to test the ArgoCD update process. The ArgoCD
-HELM chart is updated to a new version using the _App-of-Apps pattern_.
+HELM chart is updated to a new version using the _App-of-Apps pattern_. It
+starts with the version 7.9.1 and is then updated to 8.2.7.
