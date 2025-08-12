@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://gitlab.com/flytoget/flint/flint-argo.git
+    repoURL: https://github.com/fredrkl/argo-update-demo
     targetRevision: HEAD
-    path: shouldbeoverwritten
+    path: kustomize/overlays/test
   destination:
     server: https://kubernetes.default.svc
     namespace: argocd
