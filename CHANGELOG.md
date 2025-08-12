@@ -1,3 +1,8 @@
+# v1.0.0 (2025-08-12)
+
+## ✨ New Features
+- [`cc657c2`](https://github.com/fredrkl/argo-update-demo/commit/cc657c2)  README update
+
 # [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
 
 ## ✨ New Features
