@@ -43,7 +43,7 @@ are not yet installed. You can ignore these errors. The CRDs will be installed
 by the ArgoCD application itself, and the instances of them picked up by the
 ArgoCD application.
 
-## Exterpiment
+## Experiment
 
 The purpose of this repository is to test the ArgoCD update process. The ArgoCD
 HELM chart is updated to a new version using the _App-of-Apps pattern_. It
